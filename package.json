@@ -1,7 +1,7 @@
 {
-  "name": "pull-request-fetcher",
+  "name": "team-mood-tracker",
   "version": "1.0.0",
-  "description": "A slack slashcommand bot that fetches the team's pull request information",
+  "description": "A slack slashcommand bot that records the team mood for the day.",
   "main": "src/bot.js",
   "scripts": {
     "start": "node src/bot.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DigitalInnovation/pull-request-fetcher.git"
+    "url": "git+https://github.com/ChrisBentley/team-mood-tracker.git"
   },
-  "author": "Pegasus Team",
+  "author": "Chris Bentley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DigitalInnovation/pull-request-fetcher/issues"
+    "url": "https://github.com/ChrisBentley/team-mood-tracker/issues"
   },
-  "homepage": "https://github.com/DigitalInnovation/pull-request-fetcher#readme",
+  "homepage": "https://github.com/ChrisBentley/team-mood-tracker#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "botkit": "^0.5.7",

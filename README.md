@@ -1,4 +1,4 @@
-# pull-request-fetcher
+# team-mood-tracker
 
 ## Description
 
@@ -11,7 +11,6 @@ e.g.:
 ## How it's setup
 
 Setup as an app on slack, configured [here](https://api.slack.com/apps/XXXXXX)
-
 
 ## How to develop further
 

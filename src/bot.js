@@ -69,7 +69,6 @@ controller.setupWebserver(process.env.PORT, function (err, webserver) {
 });
 
 // Fix for https://github.com/howdyai/botkit/issues/108
-// 'T026K0SVA' is the team awesome id
 controller.storage.teams.save({id: process.env.TEAM_ID, foo:"bar"}, function(err) {
     if(err)
       console.error(err);
