@@ -28,10 +28,7 @@ If you wish to develop locally you should:
 You want to edit the Slash Commands Request URL:
 ![slack-app-slashcommands.png](./images/slack-app-slashcommands.png)
 
-and the OAuth Redirect URL:
-![slack-app-oauth.png](./images/slack-app-oauth.png)
 
 
-
-TODO:
+## TODO:
 - Create a graphing function
